@@ -8,7 +8,7 @@ Communitaces via the Call interface class which has three callback methods
 <br>
   <code>onError(Exception e);</code>
 <br>
-  <code>onComplete(ServerResponce responce);</code>
+  <code>onComplete(ServerResponse response);</code>
 <br>
 <b>USAGE</b>
 <br>

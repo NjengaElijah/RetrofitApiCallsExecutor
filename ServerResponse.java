@@ -1,4 +1,4 @@
-package com.apps.muthoka.retailer.Models;
+
 
 import java.io.Serializable;
 

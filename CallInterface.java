@@ -1,6 +1,6 @@
 
 
-import com.apps.muthoka.retailer.Models.ServerResponse;
+
 
 /**
  * Created by NE on 18/02/2019.

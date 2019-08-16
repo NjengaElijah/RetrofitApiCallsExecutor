@@ -1,4 +1,3 @@
-package com.apps.muthoka.retailer.CallBacks;
 
 
 import com.apps.muthoka.retailer.Models.ServerResponse;

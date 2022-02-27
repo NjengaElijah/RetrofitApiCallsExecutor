@@ -1,4 +1,4 @@
-package com.apps.muthoka.retailer.Api;
+package com.apps.njengaelijah.retailer.Api;
 
 import android.app.Activity;
 import android.app.ProgressDialog;
@@ -7,8 +7,8 @@ import android.os.AsyncTask;
 import android.util.Log;
 
 
-import com.apps.muthoka.retailer.CallBacks.CallInterface;
-import com.apps.muthoka.retailer.Models.ServerResponse;
+import com.apps.njengaelijah.retailer.CallBacks.CallInterface;
+import com.apps.njengaelijah.retailer.Models.ServerResponse;
 
 import java.io.IOException;
 
